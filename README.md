@@ -1,5 +1,3 @@
-![Computer Engineer,Software Engineer ,Web Devloper](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/442496183_2814004595420628_5472982141857421854_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=BPPWvfEoDJIQ7kNvgHOpEIe&_nc_ht=scontent.fdac7-1.fna&oh=00_AYAYTvorWEAwgedfn_8_fCh9pDZnnamsyV5uflPopf0jyg&oe=667F679E)
-
 ## Hi there, I'm Al Shaharia Hossen 👋
 #### Programmer,Computer Engineer,Software Engineer,Web Devloper
 
