@@ -1,7 +1,9 @@
-## Hi there, I'm Al Shaharia Hossen 👋
+## Hi, I'm Al Shaharia Hossen 👋
 #### Programmer,Computer Engineer,Software Engineer,Web Devloper
+🖊️ Love to write code
+🎤 Like to share my knowledge
 
-Al Shaharia Hossen is a  Author, Cyber Security Specialist, Information Security Analyst, Malware Analyst, Offensive Security Consultant, Security Analyst and System Analyst . He is a fan of Linux. Technology, Programming and Photography.He is App developer and Web devloper .
+I'm a Software Engineer who is passionate about Web & Cloud Technologies.i'm a App developer and Web devloper  Author, Cyber Security Specialist, Information Security Analyst, Malware Analyst, Offensive Security Consultant, Security Analyst and System Analyst . I'm a fan of Linux. Technology, Programming and Photography.
 
 - 🔭 I’m currently working on my skills and I'm a student at BUBT
 - 🌱 I’m currently learning C, C++, Python, Kotlin, Swift, HTML, CSS, JavaScript 
@@ -40,8 +42,7 @@ Feel free to connect with me for collaboration, mentorship, or any interesting d
 
 **Al Shaharia Hossen**
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alshahariahossen01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alshahariahossen01/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alshahariahossen01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alshahariahossen01/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shaharia_munna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/alshahariahossen01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/alshahariahossen01)  
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alshahariahossen01/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alshahariahossen01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alshahariahossen01/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shaharia_munna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/alshahariahossen01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/alshahariahossen01)  
 
 
 
