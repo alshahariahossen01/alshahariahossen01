@@ -6,7 +6,7 @@
 I'm a Software Engineer who is passionate about Web & Cloud Technologies.i'm a App developer and Web devloper  Author, Cyber Security Specialist, Information Security Analyst, Malware Analyst, Offensive Security Consultant, Security Analyst and System Analyst . I'm a fan of Linux. Technology, Programming and Photography.
 
 - 🔭 I’m currently working on my skills and I'm a student at BUBT
-- 🌱 I’m currently learning C, C++, Python, Kotlin, Swift, HTML, CSS, JavaScript 
+- 🌱 I’m currently learning C, C++, Python, Swift, Java
 - 💬 Ask me about Software development, web development, JavaScript frameworks, or data visualization, Malware Analysis 
 - 📫 How to reach me: Instagram: [@alshahariahossen01](https://www.instagram.com/alshahariahossen01)
 
@@ -16,13 +16,12 @@ I'm a Software Engineer who is passionate about Web & Cloud Technologies.i'm a A
 - C
 - C++
 - Python
-- Kotlin
+- 
 - Swift
-- JavaScript
+- Java
 
 ### Frameworks and Libraries
 - Laravel
-- React
 - Node.js
 - Django
 
